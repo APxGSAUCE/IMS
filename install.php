@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Installation Script for Equipment Inventory Management System
@@ -266,7 +265,6 @@ if (empty($errors)) {
 </body>
 </html>
 
-=======
 <?php
 /**
  * Installation Script for Equipment Inventory Management System
@@ -534,4 +532,3 @@ if (empty($errors)) {
 </body>
 </html>
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b

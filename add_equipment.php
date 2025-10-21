@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Add Equipment - Form to add new equipment
@@ -242,7 +241,6 @@ $csrf_token = generateCSRFToken();
 
 <?php require_once 'includes/footer.php'; ?>
 
-=======
 <?php
 /**
  * Add Equipment - Form to add new equipment
@@ -521,4 +519,3 @@ $csrf_token = generateCSRFToken();
 
 <?php require_once 'includes/footer.php'; ?>
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b

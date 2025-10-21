@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Login Page
@@ -148,7 +147,6 @@ $csrf_token = generateCSRFToken();
 </body>
 </html>
 
-=======
 <?php
 /**
  * Login Page
@@ -312,4 +310,3 @@ $csrf_token = generateCSRFToken();
 </body>
 </html>
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Transactions - View all transaction history with filtering
@@ -210,7 +209,6 @@ $equipmentList = executeQuery("SELECT id, name, serial_number FROM equipment ORD
 
 <?php require_once 'includes/footer.php'; ?>
 
-=======
 <?php
 /**
  * Transactions - View all transaction history with filtering
@@ -422,4 +420,3 @@ $equipmentList = executeQuery("SELECT id, name, serial_number FROM equipment ORD
 
 <?php require_once 'includes/footer.php'; ?>
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b

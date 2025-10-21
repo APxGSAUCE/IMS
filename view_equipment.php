@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * View Equipment - List all equipment with search and filtering
@@ -224,7 +223,6 @@ $categories = getAllCategories();
 
 <?php require_once 'includes/footer.php'; ?>
 
-=======
 <?php
 /**
  * View Equipment - List all equipment with search and filtering
@@ -450,4 +448,3 @@ $categories = getAllCategories();
 
 <?php require_once 'includes/footer.php'; ?>
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b

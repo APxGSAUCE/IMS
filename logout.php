@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Logout Script
@@ -21,7 +20,6 @@ session_destroy();
 header("Location: login.php");
 exit;
 
-=======
 <?php
 /**
  * Logout Script
@@ -44,4 +42,3 @@ session_destroy();
 header("Location: login.php");
 exit;
 
->>>>>>> 688f043e915ac216b709f36b533ff7972babe88b
